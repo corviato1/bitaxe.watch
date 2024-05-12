@@ -23,17 +23,23 @@ Summary
 ### Mine with Friends
 
 1- Multisig
+
 2- Hash reporting
 
 ### Hardware
 
 1- Fans
+
 2- Coolers
+
 3- Printers
+
 4- Support
 
 ### Software
 
 1- OS
+
 2- .stl
+
 3- helpful code
