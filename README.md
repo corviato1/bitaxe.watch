@@ -8,9 +8,15 @@ Summary
 
 2- Hashrate Watch
 
-## solo pool list
+## Pools
 
-item -> Summary
+1- Main
+
+2- Solo
+
+3- Community
+
+4- Custom
 
 ## About
 
