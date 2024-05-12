@@ -2,7 +2,7 @@ import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs';
 import {HttpClient} from '@angular/common/http';
 
-const baseUrl = 'https://api.watchmybtc.com';
+const baseUrl = 'https://api.bitaxe.watch';
 
 @Injectable({
   providedIn: 'root'
