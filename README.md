@@ -34,13 +34,15 @@ Summary
 
 ### Hardware
 
-1- Fans
+1- Bitaxe
 
-2- Coolers
+2- Fans
 
-3- Printers
+3- Coolers
 
-4- Support
+4- Printers
+
+5- Support
 
 ### Software
 
