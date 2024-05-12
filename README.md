@@ -5,6 +5,7 @@ Summary
 ## Alerts
 
 1- Wallet Watch
+
 2- Hashrate Watch
 
 ## solo pool list
